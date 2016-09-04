@@ -1,0 +1,23 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	I need to initialize it to create a git sctructure to track the files
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+	The staging area in your working directory is only local, and saves
+	the local changes of your files, and in the repository only saves
+	the content from the staging area.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+	When you edit a file that is already in your staging area, that 
+	content doesnt rewrite, so you can still commit your previous logic
+	before stage that file again.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+	When you want to change the arquitecture of the code, or want to 
+	create multiple versions
