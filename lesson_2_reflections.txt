@@ -21,3 +21,27 @@ history organized? How would branches help?
 
 	When you want to change the arquitecture of the code, or want to 
 	create multiple versions
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+	I remember when i had to create different application versions for 
+	the client, with the branches is easier to move from version to 
+	version.
+
+How do the diagrams help you visualize the branch structure?
+
+	I can see all the different mayor version of the code, so it is 
+	easier to have a better panorama of the project
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+	Because at the end merge branch means merge a lot of commits in one
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+	Git can manage easily the changes that was made from all the user, and
+	if you do it manually then you have to know exactly what were the 
+	changes from all the people involved.
