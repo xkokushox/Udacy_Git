@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  When i start working with other people, or want to save mi files in the cloud instead
+  my computer
