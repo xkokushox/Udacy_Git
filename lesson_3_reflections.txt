@@ -1,4 +1,27 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-  When i start working with other people, or want to save mi files in the cloud instead
-  my computer
+	When i start working with other people, or want to save mi files in the cloud instead
+	my computer
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+	Because i can choose the time to get the new changes and have control on that 
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	I would use forks when i want to copy the repostory and make changes without affect 
+	the origin, clone it when i want to collaborate with other people and make branches 
+	in big changes of code and dont affect the origin repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can work without internet without need to check the server for previous changes
+
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+	Maybe use SVN, but is harder to keep a trace of all the changes, its more complicated.
+	The easier thing of SVN is that only one person is able to modify one file so it wont 
+	be conflicts problems.
