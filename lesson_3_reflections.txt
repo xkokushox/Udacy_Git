@@ -25,3 +25,9 @@ would be harder?
 	Maybe use SVN, but is harder to keep a trace of all the changes, its more complicated.
 	The easier thing of SVN is that only one person is able to modify one file so it wont 
 	be conflicts problems.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	You can do whatever you want in the branch with out affect the master branch, so you
+	can have more control in the changes and dont affect the team 
